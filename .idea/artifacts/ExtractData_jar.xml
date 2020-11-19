@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ExtractData:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExtractData_jar</output-path>
+    <root id="archive" name="ExtractData.jar">
+      <element id="module-output" name="ExtractData" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/tukaani/xz/1.6/xz-1.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.14/commons-compress-1.14.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
